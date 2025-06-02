@@ -6,7 +6,9 @@ Modellazione predittiva tramite IA dell’occupazione dei letti in terapia inten
 Questa tesi ha l’obiettivo di sviluppare un modello predittivo per stimare l’occupazione dei letti (in particolare quelli in terapia intensiva) durante le emergenze sanitarie, prendendo come caso di studio la pandemia Covid-19 in Italia.
 La scelta di tale contesto deriva sia dalle problematiche connesse alla riservatezza dei dati ospedalieri, che ne hanno limitato l'accesso, sia dall’impatto significativo che l’emergenza Covid ha avuto sulle capacità ospedaliere, rendendo dunque evidente la necessità di strumenti previsionali per una gestione più efficace delle risorse.
 Attraverso l’analisi storica e l’utilizzo di tecniche di machine learning e modellazione statistica, il lavoro mira a costruire un modello in grado di anticipare la domanda di posti in terapia intensiva, fornendo un supporto utile per la pianificazione ospedaliera.
-Sebbene, dunque, il focus sia sul Covid-19, l’approccio proposto è concepito per essere generalizzabile e adattabile ad altri scenari epidemici futuri come, ad esempio, ondate di influenza particolarmente gravi o nuove malattie infettive.											
+Sebbene, dunque, il focus sia sul Covid-19, l’approccio proposto è concepito per essere generalizzabile e adattabile ad altri scenari epidemici futuri come, ad esempio, ondate di influenza particolarmente gravi o nuove malattie infettive.		
+
+
 ----------ENGLISH---------------------------------------------------------------------------------------------------
 Predictive AI modeling of ICU bed occupancy: a case study based on the Covid-19 pandemic
 This thesis aims to develop a predictive model to estimate bed occupancy (particularly ICU beds) during health emergencies, taking the Covid-19 pandemic in Italy as a case study.
