@@ -10,7 +10,7 @@ Attraverso l’analisi storica e l’utilizzo di tecniche di machine learning e 
 Sebbene, dunque, il focus sia sul Covid-19, l’approccio proposto è concepito per essere generalizzabile e adattabile ad altri scenari epidemici futuri come, ad esempio, ondate di influenza particolarmente gravi o nuove malattie infettive.		
 
 
-### GB ENGLISH
+### EN ENGLISH
 Predictive AI modeling of ICU bed occupancy: a case study based on the Covid-19 pandemic
 This thesis aims to develop a predictive model to estimate bed occupancy (particularly ICU beds) during health emergencies, taking the Covid-19 pandemic in Italy as a case study.
 The choice of this context derives both from the issues related to the confidentiality of hospital data, which have limited access to them, and from the significant impact that the Covid emergency has had on hospital capacity, thus highlighting the need for forecasting tools for more effective resource management.
