@@ -1,5 +1,6 @@
 # COVID-19 ICU Occupancy Prediction with AI
  AI model for forecasting COVID-19 Intensive Care Unit (ICU) occupancy to optimize resource allocation
+ 
 _Modellazione predittiva tramite IA dell’occupazione dei letti in terapia intensiva: un caso di studio basato sulla pandemia di Covid-19_
 
 ### IT ITALIANO
